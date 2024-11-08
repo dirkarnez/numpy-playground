@@ -4,6 +4,7 @@ numpy-playground
 - `np.ndarray`
 - `np.spacing`
 - `np.diag`
+- `np.linalg`
 - `np.dot`
 - `np.sqrt`
 - `np.asarray`
